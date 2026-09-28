@@ -1,0 +1,87 @@
+{
+  "meses": [
+    "Fevereiro",
+    "Março",
+    "Abril",
+    "Maio",
+    "Junho",
+    "Julho",
+    "Agosto",
+    "Setembro",
+    "Outubro",
+    "Novembro",
+    "Dezembro"
+  ],
+  "dias_letivos_por_mes": {
+    "Fevereiro": 16,
+    "Março": 22,
+    "Abril": 19,
+    "Maio": 21,
+    "Junho": 21,
+    "Julho": 11,
+    "Agosto": 21,
+    "Setembro": 23,
+    "Outubro": 17,
+    "Novembro": 20,
+    "Dezembro": 9
+  },
+  "turmas_simples": {
+    "1º ao 5º ano - EFAI": {
+      "aulas_por_dia": 5
+    },
+    "6º ao 9º ano - EFAF": {
+      "aulas_por_dia": 6
+    },
+    "1º e 2º ano - Ensino Médio": {
+      "aulas_por_dia": 7
+    }
+  },
+  "turmas_contraturno": {
+    "21301": {
+      "aulas_manha_por_dia": 7,
+      "aulas_por_dia_semana": {
+        "segunda": 0,
+        "terca": 4,
+        "quarta": 0,
+        "quinta": 3,
+        "sexta": 0
+      },
+      "dias_letivos_por_dia_semana_por_mes": {
+        "Fevereiro": {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Março":     {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Abril":     {"segunda": 0, "terca": 3, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Maio":      {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Junho":     {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 3, "sexta": 0},
+        "Julho":     {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 3, "sexta": 0},
+        "Agosto":    {"segunda": 0, "terca": 4, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Setembro":  {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Outubro":   {"segunda": 0, "terca": 3, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Novembro":  {"segunda": 0, "terca": 4, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Dezembro":  {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 2, "sexta": 0}
+      }
+    },
+    "21302": {
+      "aulas_manha_por_dia": 7,
+      "aulas_por_dia_semana": {
+        "segunda": 0,
+        "terca": 3,
+        "quarta": 0,
+        "quinta": 4,
+        "sexta": 0
+      },
+      "dias_letivos_por_dia_semana_por_mes": {
+        "Fevereiro": {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Março":     {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Abril":     {"segunda": 0, "terca": 3, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Maio":      {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Junho":     {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 3, "sexta": 0},
+        "Julho":     {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 3, "sexta": 0},
+        "Agosto":    {"segunda": 0, "terca": 4, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Setembro":  {"segunda": 0, "terca": 5, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Outubro":   {"segunda": 0, "terca": 3, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Novembro":  {"segunda": 0, "terca": 4, "quarta": 0, "quinta": 4, "sexta": 0},
+        "Dezembro":  {"segunda": 0, "terca": 2, "quarta": 0, "quinta": 2, "sexta": 0}
+      }
+    }
+  }
+}
